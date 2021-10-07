@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Marko Caric
+## <p align="center">Hi there 👋, I'm Marko Caric</p>
 ## A web developer who loves passion projects. 
 
 <!--
