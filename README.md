@@ -16,3 +16,4 @@
 - 📫 How to reach me: pbmc117@gmail.com
 
 ## Languages and Tools 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
