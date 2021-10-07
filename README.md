@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Marko Caric
-## A full stack developer who loves passion projects. 
+## A web developer who loves passion projects. 
 
 <!--
 **m-car/m-car** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
