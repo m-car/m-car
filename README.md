@@ -13,7 +13,7 @@
   -  Crypto-Launch [Repo](https://github.com/m-car/crypto-launchpad) - [Deployed Site](https://m-car.github.io/crypto-launchpad/)
 
 
-  - Other Work:
+ - Other Work:
   - 
 - 🔭 I’m currently working on my [profile](https://github.com/m-car/marko_caric_portfolio) 
 - 🌱 I’m currently learning [React.js](https://reactjs.org/)
