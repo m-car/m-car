@@ -9,7 +9,9 @@
 - Group Projects: 
   -  [YAPI Repo](https://github.com/m-car/YAPI) - [YAPI Deployed Site](https://yapi-app.herokuapp.com/)
   -  [Kode Keeper Repo](https://github.com/m-car/Kode-Keeper) - [Kode Keeper Deployed Site](https://github.com/m-car/Kode-Keeper)
-- 🔭 I’m currently working on my profile
+  -  [Crypto-Launch Repo](https://github.com/m-car/crypto-launchpad) - [Crypto-Launch Deployed Site](https://m-car.github.io/crypto-launchpad/)
+-
+- 🔭 I’m currently working on my [profile](https://github.com/m-car/marko_caric_portfolio) 
 - 🌱 I’m currently learning React
 - 📫 How to reach me: pbmc117@gmail.com
 
