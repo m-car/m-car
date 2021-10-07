@@ -12,7 +12,7 @@
   -  [Crypto-Launch Repo](https://github.com/m-car/crypto-launchpad) - [Crypto-Launch Deployed Site](https://m-car.github.io/crypto-launchpad/)
 -
 - 🔭 I’m currently working on my [profile](https://github.com/m-car/marko_caric_portfolio) 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning [React.js](https://reactjs.org/)
 - 📫 How to reach me: pbmc117@gmail.com
 
 ## Languages and Tools 
