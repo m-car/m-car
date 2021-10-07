@@ -7,8 +7,8 @@
 
 -->
 - Group Projects: 
-  -  [YAPI Repo](https://github.com/m-car/YAPI) [YAPI Deployed Site](https://yapi-app.herokuapp.com/)
-  -  [Kode Keeper Repo](https://github.com/m-car/Kode-Keeper)[Kode Keeper Deployed Site](https://github.com/m-car/Kode-Keeper)
+  -  [YAPI Repo](https://github.com/m-car/YAPI) - [YAPI Deployed Site](https://yapi-app.herokuapp.com/)
+  -  [Kode Keeper Repo](https://github.com/m-car/Kode-Keeper) - [Kode Keeper Deployed Site](https://github.com/m-car/Kode-Keeper)
 - 🔭 I’m currently working on my profile
 - 🌱 I’m currently learning React
 - 📫 How to reach me: pbmc117@gmail.com
