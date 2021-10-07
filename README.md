@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my profile
 - 🌱 I’m currently learning React
-- 📫 How to reach me: pbmc117@gmail.com
+📫 How to reach me: pbmc117@gmail.com
 
  
 -->
