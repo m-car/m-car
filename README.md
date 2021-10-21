@@ -1,5 +1,5 @@
 ## <p align="center">Hi there 👋, I'm Marko Caric</p>
-## <p align="center">A web developer who loves passion projects. </p>
+
 
 <!--
 **m-car/m-car** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
