@@ -17,7 +17,7 @@
   - Employee Tracker CLI [Repo](https://github.com/m-car/employee-tracker)
 - Gist:
   - A Regex Tutorial [Gist](https://gist.github.com/m-car/d7f84d0e8e47850e720a12508c4f77a8)
-- 🔭 I’m currently working on my [profile](https://github.com/m-car/marko_caric_portfolio) 
+- 🔭 I’m currently working on my [profile](https://m-car.github.io/marko_caric_portfolio/) 
 - 🌱 I’m currently learning [React.js](https://reactjs.org/)
 - 📫 How to reach me: pbmc117@gmail.com
 
