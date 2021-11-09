@@ -16,7 +16,7 @@
   - README Generator [Repo](https://github.com/m-car/README-Generator) 
   - Employee Tracker CLI [Repo](https://github.com/m-car/employee-tracker)
 
-- 🔭 I’m currently working on my [profile](https://m-car.github.io/marko_caric_portfolio/) 
+- 🔭 I’m currently working on my [portfolio](https://m-car.github.io/marko_caric_portfolio/) 
 - 🌱 I’m currently learning [React.js](https://reactjs.org/)
 - 📫 How to reach me: pbmc117@gmail.com
 
